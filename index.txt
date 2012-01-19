@@ -9,6 +9,8 @@ Welcome to Sphinx Test's documentation!
 This is my first working documentation on `Read the Docs`. Will it
 work as expected?
 
+More content to test the post-commit hook on github.
+
 Contents:
 
 .. toctree::
